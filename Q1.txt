@@ -1,0 +1,13 @@
+1.Difference between document and window objects:-
+
+Document:-
+
+    * The HTML document is loaded a web browser.
+    * It is the root node of the HTML document.
+    * It is property of the window object.
+
+Window:-
+
+    * It represents an open window in browser.
+    * The browser creates one window object for HTML document.
+    * One additional window object for each frame.

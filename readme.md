@@ -1,0 +1,1 @@
+Answered on Difference between document and window objects:-
